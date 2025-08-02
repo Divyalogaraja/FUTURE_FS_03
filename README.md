@@ -56,9 +56,11 @@ Design choices reflect LIC’s legacy while embracing a modern, user-friendly in
 │   └── PlanCard.tsx
 ├── data/
 │   └── plans.ts
+├── public/
+│   └── icons/
+
+
 
 🙋 About Me
 👩🏻‍💻 Divya L Intern @ Future Interns Full-stack developer with a passion for clarity, accessibility, and modern UI/UX.
-├── public/
-│   └── icons/
 
